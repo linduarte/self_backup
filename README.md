@@ -40,6 +40,6 @@ SOURCE_DIRS = {
 }
 
 DEST_DIR = r"C:\Users\clldu\OneDrive\Documentos\self_backup"
-BACKUP_TIME = "14:52"
+BACKUP_TIME = "13:59"
 
 ```

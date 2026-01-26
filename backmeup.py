@@ -19,7 +19,7 @@ SOURCE_DIRS = {
 DEST_DIR = r"C:\Users\clldu\OneDrive\Documentos\self_backup"
 
 # Time of day to run the backup (24-hour format)
-BACKUP_TIME = "14:52"
+BACKUP_TIME = "14:01"
 
 def is_in_use(directory):
     # Check if any file in the directory is currently open or in use
@@ -76,5 +76,5 @@ def run_backup_at_time(test_time=None):
 
 if __name__ == "__main__":
     # Set a test time for testing purposes
-    test_time = "14:52"
+    test_time = "14:01"
     run_backup_at_time(test_time)
