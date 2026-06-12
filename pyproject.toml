@@ -3,7 +3,5 @@ name = "self-backup"
 version = "0.1.0"
 description = "BackMeUp is a free advanced Python utility that automates the backup process for any file or folder"
 readme = "README.md"
-requires-python = ">=3.13.0"
-dependencies = [
-    "psutil>=6.1.1",
-]
+requires-python = ">=3.12.0"
+dependencies = ["psutil>=6.1.1"]
